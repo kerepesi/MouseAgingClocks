@@ -2,9 +2,11 @@
 Workflows for measuring epigenetic age of mouse RRBS samples
 ************************************************************
 
+
 Author: Csaba Kerepesi, Brigham and Women's Hospital and Harvard Medical School, Boston, MA, USA
 
 Info/request: ckerepesi@bwh.harvard.edu
+
 
 Requirements (versions used by us in parenthesis): 
 
@@ -13,6 +15,7 @@ Requirements (versions used by us in parenthesis):
    -- Python 3.7.4 
    
    -- Python packages: pandas (0.25.1), numpy (1.17.2)
+
 
 Usage:
 
@@ -26,6 +29,7 @@ Usage:
   
   -- The script expects methylation values between 0 and 1 and provide preidcted age in months. 
   
+
 Please download and output the following files to the 'ClockData' directory:
 
     -- elife-40675-supp3-v2.xlsx (Meer et al. 2018. Elife, Supplementary file 3, https://elifesciences.org/articles/40675/figures#supp3)
