@@ -21,5 +21,6 @@ Usage:
   
 Please download and output the following files to the 'ClockData' directory:
 
-    -- elife-40675-supp3-v2.xlsx (Meer et al. 2018. Elife, Supplementary file 3, https://elifesciences.org/articles/40675/figures#supp3)                                               -- TrainingData_Babraham_Reizel_Cannon.txt (Stubbs et al. 2017. Genome Biology, https://github.com/EpigenomeClock/MouseEpigeneticClock/blob/master/TrainingMatrix/TrainingData_Babraham_Reizel_Cannon.txt      
+    -- elife-40675-supp3-v2.xlsx (Meer et al. 2018. Elife, Supplementary file 3, https://elifesciences.org/articles/40675/figures#supp3)
+    -- TrainingData_Babraham_Reizel_Cannon.txt (Stubbs et al. 2017. Genome Biology, https://github.com/EpigenomeClock/MouseEpigeneticClock/blob/master/TrainingMatrix/TrainingData_Babraham_Reizel_Cannon.txt      
     -- Supplemental_Table_S2.xlsx (Wang and Lemos 2019. Genome Research, Supplementary Table S2 https://genome.cshlp.org/content/suppl/2019/02/07/gr.241745.118.DC1/Supplemental_Table_S2.xlsx)
