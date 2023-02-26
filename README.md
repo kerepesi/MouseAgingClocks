@@ -5,7 +5,7 @@ Workflows for measuring epigenetic age of mouse RRBS samples
 
 Author: Csaba Kerepesi, Brigham and Women's Hospital and Harvard Medical School, Boston, MA, USA
 
-Info/request: ckerepesi@bwh.harvard.edu
+Info/request: kerepesi@sztaki.hu
 
 
 Requirements (versions used by us in parenthesis): 
