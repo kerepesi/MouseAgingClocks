@@ -1,0 +1,22 @@
+,Organism,source_name,Strain,gender,genotype/variation,Genotype,Method,Stage,Group,Rep,File name,Source,Embryonic day,Genot
+GSM1545164,Mus musculus,E11.5 limbs,C57BL/6J,female,,wild type,RRBS,E11.5,WT,Rep1,GSM1545164_RRBS_E11.5_WT-Rep1.igv,E11.5 WT,11.5,WT
+GSM1545165,Mus musculus,E11.5 limbs,C57BL/6J,female,,wild type,RRBS,E11.5,WT,Rep2,GSM1545165_RRBS_E11.5_WT-Rep2.igv,E11.5 WT,11.5,WT
+GSM1545166,Mus musculus,E11.5 limbs,C57BL/6J,male,,Dnmt3b-/-,RRBS,E11.5,3BKO,Rep1,GSM1545166_RRBS_E11.5_3BKO-Rep1.igv,E11.5 3BKO,11.5,3BKO
+GSM1545167,Mus musculus,E11.5 limbs,C57BL/6J,female,,Dnmt3b-/-,RRBS,E11.5,3BKO,Rep2,GSM1545167_RRBS_E11.5_3BKO-Rep2.igv,E11.5 3BKO,11.5,3BKO
+GSM1471896,Mus musculus,E3.5 blastocysts,C57BL/6J,mixed,WT,,RRBS,E3.5,,,GSM1471896_RRBS_E3.5.igv,E3.5,3.5,WT
+GSM1471897,Mus musculus,E4.5 blastocysts,C57BL/6J,mixed,WT,,RRBS,E4.5,,,GSM1471897_RRBS_E4.5.igv,E4.5,4.5,WT
+GSM1471898,Mus musculus,E5.5 epiblasts,C57BL/6J,mixed,WT,,RRBS,E5.5,,,GSM1471898_RRBS_E5.5.igv,E5.5,5.5,WT
+GSM1471900,Mus musculus,E7.5 epiblasts,C57BL/6J,mixed,WT,,RRBS,E7.5,,,GSM1471900_RRBS_E7.5.igv,E7.5,7.5,WT
+GSM1471901,Mus musculus,E8.5 whole embryos,C57BL/6J,mixed,WT,,RRBS,E8.5,WT,Rep1,GSM1471901_RRBS_E8.5_WT-Rep1.igv,E8.5 WT,8.5,WT
+GSM1471903,Mus musculus,E8.5 whole embryos,C57BL/6J,female,WT,,RRBS,E8.5,WT,Rep3,GSM1471903_RRBS_E8.5_WT-Rep3.igv,E8.5 WT,8.5,WT
+GSM1471905,Mus musculus,E8.5 whole embryos,C57BL/6J,female,Dnmt3a-/-,,RRBS,E8.5,3AKO,Rep2,GSM1471905_RRBS_E8.5_3AKO-Rep2.igv,E8.5 3AKO,8.5,3AKO
+GSM1471907,Mus musculus,E8.5 whole embryos,C57BL/6J,female,Dnmt3b-/-,,RRBS,E8.5,3BKO,Rep2,GSM1471907_RRBS_E8.5_3BKO-Rep2.igv,E8.5 3BKO,8.5,3BKO
+GSM1471908,Mus musculus,E10.5 whole embryos,C57BL/6J,mixed,WT,,RRBS,E10.5,,Rep1,GSM1471908_RRBS_E10.5-Rep1.igv,E10.5,10.5,WT
+GSM1471909,Mus musculus,E10.5 whole embryos,C57BL/6J,mixed,WT,,RRBS,E10.5,,Rep2,GSM1471909_RRBS_E10.5-Rep2.igv,E10.5,10.5,WT
+GSM1471910,Mus musculus,Adult liver,C57BL/6J,female,WT,,RRBS,Ad,Liver,,GSM1471910_RRBS_Ad_Liver.igv,Ad Liver,-1.0,WT
+GSM1471911,Mus musculus,Sperm,CD-1,male,WT,,RRBS,,Sperm,Rep1,GSM1471911_RRBS_Sperm-Rep1.igv,Sperm,-1.0,WT
+GSM1471912,Mus musculus,Sperm,CD-1,male,WT,,RRBS,,Sperm,Rep2,GSM1471912_RRBS_Sperm-Rep2.igv,Sperm,-1.0,WT
+GSM1471904,Mus musculus,E8.5 whole embryos,C57BL/6J,male,Dnmt3a-/-,,RRBS,E8.5,3AKO,Rep1,GSM1471904_RRBS_E8.5_3AKO-Rep1.igv,E8.5 3AKO,8.5,3AKO
+GSM1471902,Mus musculus,E8.5 whole embryos,C57BL/6J,male,WT,,RRBS,E8.5,WT,Rep2,GSM1471902_RRBS_E8.5_WT-Rep2.igv,E8.5 WT,8.5,WT
+GSM1471906,Mus musculus,E8.5 whole embryos,C57BL/6J,female,Dnmt3b-/-,,RRBS,E8.5,3BKO,Rep1,GSM1471906_RRBS_E8.5_3BKO-Rep1.igv,E8.5 3BKO,8.5,3BKO
+GSM1471899,Mus musculus,E6.5 epiblasts,C57BL/6J,mixed,WT,,RRBS,E6.5,,,GSM1471899_RRBS_E6.5.igv,E6.5,6.5,WT
