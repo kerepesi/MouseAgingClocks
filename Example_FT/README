@@ -1,1 +1,10 @@
 
+1. FTGenForrDNA_v1.py-strand_pos-coverage_5.csv-Dropna90.py.csv: 
+
+- An example 'FT.csv' for the AppMouserDNAClocks.py. The table was generated from the methylation data of GSE60334 (Auclair et al. 2014) by mapping to the mouse rDNA sequence.  
+For details, please, see the method of our related manuscript (Kerepesi et al. 2021. https://doi.org/10.1126/sciadv.abg6082). 
+
+2. FTGenForrDNA_v1.py-strand_pos-coverage_5.csv-Dropna90.py.csv-AppMouserDNAClocks.py.csv
+
+- Output of the AppMouseGenomicClocks.py with the command:
+$ python AppMouseGenomicClocks.py FTGenForrDNA_v1.py-strand_pos-coverage_5.csv-Dropna90.py.csv SraRunTable.csv-BS.csv-Meta.csv
