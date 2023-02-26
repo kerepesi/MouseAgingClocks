@@ -27,7 +27,7 @@ Usage:
   
   -- Missing values are filled by the mean of the mean values of the clock sites of the samples. It may not practical in some cases. In that case, you can also use pre-filled feature tables.
   
-  -- The script expects methylation values between 0 and 1 and provide preidcted age in months. 
+  -- The script expects methylation values between 0 and 1 and provide predicted age in months. 
   
 
 Please download and output the following files to the 'ClockData' directory:
