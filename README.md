@@ -7,7 +7,7 @@ Author: Csaba Kerepesi, Brigham and Women's Hospital and Harvard Medical School,
 
 Info/request: kerepesi@sztaki.hu
 
-Related paper: Kerepesi C, Zhang B, Lee SG, Trapp A, Gladyshev VN. Epigenetic clocks reveal a rejuvenation event during embryogenesis followed by aging Science Advances, Vol 7, Issue 26 (2021) https://doi.org/10.1126/sciadv.abg6082
+Related paper: Kerepesi C, Zhang B, Lee SG, Trapp A, Gladyshev VN. Epigenetic clocks reveal a rejuvenation event during embryogenesis followed by aging Science Advances, Vol 7, Issue 26 (2021). https://doi.org/10.1126/sciadv.abg6082
 
 
 Requirements (versions used by us in parenthesis): 
